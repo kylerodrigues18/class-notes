@@ -1,3 +1,7 @@
 # My Class Notes
 
-These will be the notes for my class
+## 9.12.22
+- Started Class
+- Got into VM
+- Created this site
+- Learned about Dotnet and its history
