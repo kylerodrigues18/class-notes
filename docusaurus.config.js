@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Kyle\'s Class Notes',
-  tagline: 'Dinosaurs are cool',
+  title: 'karsix.io',
+  tagline: 'A site focused on human centered design',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'KR',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
