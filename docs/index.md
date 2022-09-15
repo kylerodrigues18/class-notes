@@ -19,3 +19,12 @@ sidebar_position: 1
   - Practice TDD
   - Patterns (Composition, etc.)
   - Stubbing / Mocking
+
+- Testing
+  - Unit Testing
+  - Test Driven Development
+
+  ## 9.14.22
+- Continue the Banking Thing
+  - Feature: Customer Loyalty
+  - Narrative: Some Accounts will be "Gold" accounts.
