@@ -14,17 +14,39 @@ sidebar_position: 1
   - CTS (Value Types / Reference Types)
   - Collections
   - Enumerations
-
 - Do Some OOP Stuff
   - Practice TDD
   - Patterns (Composition, etc.)
   - Stubbing / Mocking
-
 - Testing
   - Unit Testing
   - Test Driven Development
 
-  ## 9.14.22
+## 9.14.22
 - Continue the Banking Thing
   - Feature: Customer Loyalty
-  - Narrative: Some Accounts will be "Gold" accounts.
+  - Narrative: Some Accounts will be "Gold" accounts
+- Continue testing, look at test doubles
+
+## 9.15.22
+- More on Test Doubles
+  - Dummies
+  - Stubs
+  - Mocks
+- TDD Kata 2 - Stubs and Mocks
+- WBuild an API - see how this works there
+- Miscellaneous Topics
+  - Delegates (() =>)
+  - IDisposable / Memory, Lifetime, etc.
+  - Nullable value and reference types
+
+  ## 9.16.22
+  - Configuration in .NET APIs
+    - That connection string
+  - Integration Testing
+    - Setting up
+    - Difference between integration and unit testing
+  - Communicating with other Services
+    - Bonus Calculation
+    - Stubbing / Mocking Exernal Services
+  - Containerize the External Service
