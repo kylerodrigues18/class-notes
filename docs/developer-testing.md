@@ -103,3 +103,17 @@ After the test is passing, make it "good". Look for duplication, look for latent
 #### (Sometimes) Commit
 
 Make a commit. 
+
+
+### Stub vs Mock
+:::note
+The purpose of both is to eliminate testing all the dependencies of a class or function so your tests are more focused on that class/function itself.
+:::
+
+#### Stub
+
+
+#### Mock
+
+
+### Alba nuget package for API HTTP endpoint testing

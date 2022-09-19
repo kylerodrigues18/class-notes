@@ -50,3 +50,11 @@ sidebar_position: 1
     - Bonus Calculation
     - Stubbing / Mocking Exernal Services
   - Containerize the External Service
+
+  ## 9.19.22
+  - Show OpenAPI
+  - Create the bonus calculator API
+  - Containerize the project and add it to our `dev-enironment/docker-compose.yml` file
+  - Integrate those two APIs
+  - Make an "Issue List"
+  - Start learning Angular
