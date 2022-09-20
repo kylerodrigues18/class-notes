@@ -25,3 +25,7 @@ Components are made up of the following things (code wise):
 - A typescript class
 - A template
 - CSS
+
+### VS Code Extensions
+
+- [Link](https://github.com/hypertheory-reference/dot-files/tree/main/angular/.vscode)
