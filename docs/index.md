@@ -84,3 +84,7 @@ sidebar_position: 1
   - "Universal Service"
   - State, Reducers, Actions
   - Effects
+
+## 9.21.22
+
+- Redux
