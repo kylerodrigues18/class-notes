@@ -88,3 +88,28 @@ sidebar_position: 1
 ## 9.21.22
 
 - Redux
+
+## 9.22.22
+
+- More Redux
+- Start API work
+
+## 9.23.22
+
+- Finish our API so that we can make it add songs
+  - Validation (Field/Domain)
+  - Business Rule Validation
+  - Sending Error Responses
+  - Augmenting our OpenAPI Specs so the person using the API knows the rules
+- More about migrations
+  - Applying them
+- Containers - building containers for our Angular Application and our API
+- Orchestration - Kubernetes
+  - Overview
+  - Terms
+  - The "CD" part of CI/CD
+  - Create Manifests
+  - Deploy our application
+- "Cloud Native" developer
+  - Assume containerized applications
+  - Code is very transportable (on prem in kubernetes)
